@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 rabbitmq:3.13.3
 zhayujie/chatgpt-on-wechat
+mysql:8.0.33
