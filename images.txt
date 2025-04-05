@@ -7,3 +7,5 @@ xhofe/alist:latest
 #rabbitmq:3.13.3
 #zhayujie/chatgpt-on-wechat
 mysql:8.0.33
+ragflow_deps:latest
+ubuntu:22.04
